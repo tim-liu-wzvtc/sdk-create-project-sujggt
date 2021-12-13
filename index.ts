@@ -8,6 +8,7 @@ document.getElementById('time').innerHTML = moment().format('MMMM Do YYYY, h:mm:
 `;
 
 
+
 // Create the index.html file
 const html = `<h1>I was created on <span id='time'></span></h1>`;
 
